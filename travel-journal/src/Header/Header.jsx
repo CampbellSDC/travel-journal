@@ -8,7 +8,7 @@ export default function Header() {
             <nav className="nav-container">
 
                 <span className="globe-icon"><FontAwesomeIcon icon={faEarthAmericas} /></span>
-                <h4 className="header-title">my journey</h4>
+                <p className="header-title">my travel journey.</p>
             </nav>
         </>
     )
